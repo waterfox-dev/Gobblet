@@ -1,0 +1,14 @@
+\e[91m              bad
+\033[0;37m          reset color
+\x1b[36m            information
+\033[0;93m          player 1
+\033[0;32m          player 2
+\e[36m              important information
+
+\e[1m               Bold
+\e[2m               Dim
+\e[4m               Underlined
+\e[5m               Blink
+\e[7m               inverted
+\e[8m               Hidden
+\e[0m               Reset attributes
